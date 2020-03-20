@@ -69,9 +69,12 @@ body{
         }
 
         li {
-            &:hover{
-                background-color: #f8fafa;
+            p{
+                &:hover{
+                    background-color: #f8fafa;
+                }
             }
+            
         }
     }
 
