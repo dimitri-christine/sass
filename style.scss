@@ -18,10 +18,13 @@ body{
         }
     }
     h1{
-        color: #999;
+        display: flex;
+        justify-content: center;
+        font-size: 3rem;
+        color: #f8fafa;
         transition: all 1s ease;
         &:hover{
-            color: #000;
+            color: #04434f;
         }
     }
 }
