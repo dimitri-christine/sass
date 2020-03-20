@@ -4,6 +4,7 @@ body{
         color: red;
         font-size: 2em;
         transition: all 1s ease;
+        text-decoration: none;
         &:hover{
             color: purple;
         }
