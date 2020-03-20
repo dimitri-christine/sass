@@ -59,6 +59,11 @@ body{
         }
     }
 
+    .tracklist{
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
 $tablet-width: 768px;
