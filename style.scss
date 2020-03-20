@@ -51,21 +51,21 @@ body{
         }
     }
 
-    #tracklist{
-        .img_track{
-            img{
-                width: 300px;
-                height: 300px;
-            }
-        }
-
-        .track{
-            p {
-                display: flex;
-                justify-content: space-around;
-            }
+    
+    .img_track{
+        img{
+            width: 300px;
+            height: 300px;
         }
     }
+
+    .track{
+        p {
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+
 }
 
 $tablet-width: 768px;
