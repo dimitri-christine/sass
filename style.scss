@@ -56,12 +56,17 @@ body{
         img{
             width: 400px;
             height: 300px;
+            border-radius: 15px;
         }
     }
 
     .tracklist{
         display: flex;
         justify-content: center;
+        
+        ul {
+            list-style-type: none;
+        }
     }
 
 }
